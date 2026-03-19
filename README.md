@@ -18,3 +18,4 @@ Minstaller is the best and easiest tool to put FFlags into roblox in SECONDS!
 - *requirements:*
 - *any os that can run .exe's*
 - *roblox*
+/
